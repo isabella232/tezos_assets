@@ -1090,5 +1090,10 @@
     "alias": "Baking Benjamins",
     "hasLogo": true,
     "acceptsDelegations": true
+  },
+  "KT1NjxTshTx299m6toq3AgMwCf8ZdscWhn3C": {
+    "alias": "TzButton",
+    "hasLogo": true,
+    "accountType": "account"
   }
 }
