@@ -1136,5 +1136,10 @@
     "alias": "Bitfinex Staking",
     "hasLogo": true,
     "accountType": "account"
+  },
+  "tz1PFeoTuFen8jAMRHajBySNyCwLmY5RqF9M": {
+    "alias": "Paradigm Bakery",
+    "hasLogo": true,
+    "acceptsDelegations": true
   }
 }
