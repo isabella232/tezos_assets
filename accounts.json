@@ -503,7 +503,7 @@
     "acceptsDelegations": false
   },
   "tz1YKh8T79LAtWxX29N5VedCSmaZGw9LNVxQ": {
-    "alias": "TezosBr",
+    "alias": "Tezos Brazil",
     "hasLogo": true,
     "acceptsDelegations": true
   },
@@ -1130,6 +1130,7 @@
   "KT1Puc9St8wdNoGtLiD2WXaHbWU7styaxYhD": {
     "alias": "Dexter USDtz/XTZ",
     "hasLogo": true,
+    "logoReference": "KT1DrJV8vhkdLEj76h1H9Q4irZDqAkMPo1Qf",
     "accountType": "account"
   },
   "tz1abR1YHzPy8jb2VrZxW7YTLFR21MfUSBfu": {
@@ -1141,5 +1142,68 @@
     "alias": "Paradigm Bakery",
     "hasLogo": true,
     "acceptsDelegations": true
+  },
+  "tz1fUyqYH7H4pRHN1roWY17giXhy1RvxjgUV": {
+    "alias": "Citadel.one",
+    "hasLogo": true
+  },
+  "tz1UvkANVPWppVgMkLnvN7BwYZsCP7vm6NVd": {
+    "alias": "Neokta Labs",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1WvL7MKyCuUHfC3FxPFyiXcy8hHTBT3vjE": {
+    "alias": "Stakkt",
+    "hasLogo": true
+  },
+  "tz1dbfppLAAxXZNtf2SDps7rch3qfUznKSoK": {
+    "alias": "Coinhouse",
+    "hasLogo": true,
+    "isExchange": true,
+    "acceptsDelegations": false
+  },
+  "tz1aKxnrzx5PXZJe7unufEswVRCMU9yafmfb": {
+    "alias": "Tezos Canada",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1LnWa4AiFCjMezTgSNa65QFoo7DQGEWgEU": {
+    "alias": "Tezeract",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1hTFcQk2KJRPzZyHkCwbj7E1zY1xBkiHsk": {
+    "alias": "ownBLOCK",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1abmz7jiCV2GH2u81LRrGgAFFgvQgiDiaf": {
+    "alias": "Tessellated Geometry",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1UdeKoMJivgqRgRUNzroMwRJYmJY8BtaWe": {
+    "alias": "alphaTezos",
+    "hasLogo": true
+  },
+  "tz1S8e9GgdZG78XJRB3NqabfWeM37GnhZMWQ": {
+    "alias": "0xb1 / PlusMinus",
+    "hasLogo": true
+  },
+  "tz1KksC8RvjUWAbXYJuNrUbontHGor26Cztk": {
+    "alias": "Bakednode",
+    "hasLogo": true
+  },
+  "tz1gcna2xxZj2eNp1LaMyAhVJ49mEFj4FH26": {
+    "alias": "Exaion Baker",
+    "hasLogo": true
+  },
+  "tz1bL1TQrksN6ZASJfDq4k2DfZHdoFwZf6Ah": {
+    "alias": "CrispyTezos",
+    "hasLogo": true
+  },
+  "tz1Qdhnt3LMVpQd61iao6VpmMPF2FcziPTw8": {
+    "alias": "Skippy Tacos",
+    "hasLogo": true
   }
 }
