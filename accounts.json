@@ -1066,6 +1066,12 @@
     "hasLogo": true,
     "accountType": "contract"
   },
+  "KT1SovvF5KRQjBiVX8cHFmEoMc7H54ehxstV": {
+    "alias": "Wetzikon",
+    "hasLogo": false,
+    "accountType": "contract",
+    "contractType": "fa2"
+  },
   "tz1d41e4H3t2UbxWSaESzsT3vGL3UeWXveZY": {
     "alias": "BAKRRR.COM",
     "hasLogo": true,
