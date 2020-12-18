@@ -681,12 +681,6 @@
     "hasLogo": true,
     "acceptsDelegations": true
   },
-  "KT1SovvF5KRQjBiVX8cHFmEoMc7H54ehxstV": {
-    "alias": "Wetzikon",
-    "hasLogo": false,
-    "accountType": "contract",
-    "contractType": "fa2"
-  },
   "tz1c7pVR4w3KSQarJdBeh4NS2WxMUFBy1rHQ": {
     "alias": "MyBakerSpace",
     "hasLogo": false,
