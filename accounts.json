@@ -1336,10 +1336,12 @@
   },
   "KT1AdbYiPYb5hDuEuVrfxmFehtnBCXv4Np7r": {
     "alias": "Harbinger Oracle: Coinbase Normalizer",
+    "hasLogo": false,
     "accountType": "account"
   },
   "KT1Jr5t9UvGiqkvvsuUbPJHaYx24NzdUwNW9": {
     "alias": "Harbinger Oracle: Coinbase Storage",
+    "hasLogo": false,
     "accountType": "account"
   },
   "KT19kgnqC5VWoxktLRdRUERbyUPku9YioE8W": {
