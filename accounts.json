@@ -46,7 +46,7 @@
   "tz1LH4L6XYT2JNPhvWYC4Zq3XEiGgEwzNRvo": {
     "alias": "Stir Delegate",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1LLNkQK4UQV6QcFShiXJ2vT2ELw449MzAA": {
     "alias": "TezosTeam",
@@ -98,7 +98,7 @@
     "acceptsDelegations": true
   },
   "tz1LmaFsWRkjr7QMCx5PtV6xTUz3AmEpKQiF": {
-    "alias": "Blockpower",
+    "alias": "Blockpower Staking",
     "hasLogo": true,
     "acceptsDelegations": true
   },
@@ -110,7 +110,7 @@
   "tz1MDKr36woXfVtrtXfV1ppPJERxPcm2wU6V": {
     "alias": "Stack Tezos",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1MJx9vhaNRSimcuXPK2rW4fLccQnDAnVKJ": {
     "alias": "AirGap",
@@ -241,7 +241,7 @@
   "tz1Pwgj6j55akKCyvTwwr9X4np1RskSXpQY4": {
     "alias": "Validators.com",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1QGZ3dD2YpRKZ4APeso6EXTeyCUUkw6MQC": {
     "alias": "TezosBC_old",
@@ -283,6 +283,13 @@
     "hasLogo": true,
     "isExchange": true,
     "acceptsDelegations": false
+  },
+  "tz1hkzS6pnfnHv9KzX1nbtqXVqUkzcem8FJs": {
+    "alias": "Coinone Delegator",
+    "hasLogo": true,
+    "logoReference": "tz1NpWrAyDL9k2Lmnyxcgr9xuJakbBxdq7FB",
+    "isExchange": true,
+    "accountType": "account"
   },
   "tz1Scdr2HsZiQjc7bHMeBbmDRXYVvdhjJbBh": {
     "alias": "Figment",
@@ -403,7 +410,7 @@
   "tz1Vm5cfHncKGBo7YvZfHc4mmudY4qpWzvSB": {
     "alias": "Tezos Istanbul",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1VmiY38m3y95HqQLjMwqnMS7sdMfGomzKi": {
     "alias": "Lucid Mining",
@@ -413,7 +420,7 @@
   "tz1Vtimi84kLh9RANfRVX2JvYtP4NPCT1aFm": {
     "alias": "TezTech Labs",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1RAzdkp1x5ZDqms4ZUrSdfJuUYGH9JTPK2": {
     "alias": "Tezos Spanish",
@@ -460,7 +467,7 @@
   "tz1WJpSCYdQE9merfftanA8eFsqUPTpwAt8a": {
     "alias": "Tezos China",
     "hasLogo": false,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1WnfXMPaNTBmH7DBPwqCWs9cPDJdkGBTZ8": {
     "alias": "Tezos HODL",
@@ -531,7 +538,7 @@
   "tz1YgNQBeLTgbwRb7QiyvHrx7hwN7AUbdqpB": {
     "alias": "Baker Avenue",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1Yh1nLXfwqVpP8btykuRguu61n3veVmADa": {
     "alias": "TzBakeOven",
@@ -554,7 +561,7 @@
     "acceptsDelegations": true
   },
   "tz1Z1tMai15JWUWeN2PKL9faXXVPMuWamzJj": {
-    "alias": "XTZ Land",
+    "alias": "TezosLand",
     "hasLogo": true,
     "acceptsDelegations": true
   },
@@ -576,7 +583,7 @@
   "tz1ZRWFLgT9sz8iFi1VYWPfRYeUvUSFAaDao": {
     "alias": "Delegated Capital",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1ZTG13gkvouxSANka3HG3uys8C5gu3DPXZ": {
     "alias": "Just a Baker",
@@ -606,7 +613,7 @@
   "tz1abTjX2tjtMdaq5VCzkDtBnMSCFPW2oRPa": {
     "alias": "TEZ Rocket",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1aiYKXmSRckyJ9EybKmpVry373rfyngJU8": {
     "alias": "View Nodes",
@@ -647,7 +654,7 @@
   "tz1bHzftcTKZMTZgLLtnrXydCm6UEqf4ivca": {
     "alias": "Tezos Vote",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1bLwpPfr3xqy1gWBF4sGvv8bLJyPHR11kx": {
     "alias": "Tezos Hot Bakery",
@@ -669,17 +676,17 @@
   "tz1bkKTY9Y3rTsHbpr2fbGUCRm736LLquQfM": {
     "alias": "Tezos Tacos",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1bkg7rynMXVcjomoe3diB4URfv8GU2GAcw": {
     "alias": "Tz Bank",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1c3Wh8gNMMsYwZd67JndQpYxdaaPUV27E7": {
     "alias": "TezosBC",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1c7pVR4w3KSQarJdBeh4NS2WxMUFBy1rHQ": {
     "alias": "MyBakerSpace",
@@ -721,7 +728,7 @@
   "tz1djEKk6j1FqigTgbRsunbnY9BB7qsn1aAQ": {
     "alias": "Tezos Ninja",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1dp3tScJZy8Go3byPdioSujgDi5CdemiuZ": {
     "alias": "iBakeTezos",
@@ -1014,9 +1021,10 @@
     "acceptsDelegations": false
   },
   "tz1NEKxGEHsFufk87CVZcrqWu8o22qh46GK6": {
-    "alias": "Money Every 3 Days Old",
+    "alias": "Money Every 3 Days",
     "hasLogo": true,
-    "logoReference": "tz1egbN6RK2bM5vt4aAZw6r9j4nL8z49bPdS"
+    "logoReference": "tz1egbN6RK2bM5vt4aAZw6r9j4nL8z49bPdS",
+    "acceptsDelegations": true
   },
   "tz1V3yg82mcrPJbegqVCPn6bC8w1CSTRp3f8": {
     "alias": "Staking Shop",
@@ -1075,10 +1083,15 @@
   "tz1d41e4H3t2UbxWSaESzsT3vGL3UeWXveZY": {
     "alias": "BAKRRR.COM",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "KT1LN4LPSqTMS7Sd2CJw4bbDGRkMv2t68Fy9": {
     "alias": "USDtz",
+    "hasLogo": true,
+    "accountType": "contract"
+  },
+  "KT19at7rQUvyjxnZ2fBv7D9zc8rkyG7gAoU8": {
+    "alias": "ETHtz",
     "hasLogo": true,
     "accountType": "contract"
   },
@@ -1166,7 +1179,8 @@
   },
   "tz1WvL7MKyCuUHfC3FxPFyiXcy8hHTBT3vjE": {
     "alias": "Stakkt",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
   },
   "tz1dbfppLAAxXZNtf2SDps7rch3qfUznKSoK": {
     "alias": "Coinhouse",
@@ -1196,26 +1210,174 @@
   },
   "tz1UdeKoMJivgqRgRUNzroMwRJYmJY8BtaWe": {
     "alias": "alphaTezos",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
   },
   "tz1S8e9GgdZG78XJRB3NqabfWeM37GnhZMWQ": {
     "alias": "0xb1 / PlusMinus",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
   },
   "tz1KksC8RvjUWAbXYJuNrUbontHGor26Cztk": {
     "alias": "Bakednode",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
   },
   "tz1gcna2xxZj2eNp1LaMyAhVJ49mEFj4FH26": {
     "alias": "Exaion Baker",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
   },
   "tz1bL1TQrksN6ZASJfDq4k2DfZHdoFwZf6Ah": {
     "alias": "CrispyTezos",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
   },
   "tz1Qdhnt3LMVpQd61iao6VpmMPF2FcziPTw8": {
     "alias": "Skippy Tacos",
-    "hasLogo": true
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1SUgyRB8T5jXgXAwS33pgRHAKrafyg87Yc": {
+    "alias": "DNAG",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1S6H83gugqK4dR5Had9jWR9M1ZdAAVgU5e": {
+    "alias": "Baking.Finance",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1UNkf4sWzC5vsKP7FnejSeJsXdc6z8Kzk4": {
+    "alias": "Adi_daz Barrio Bakery",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1eCzNtidHvVgeRzQ38C81FPcYnxMsCEL6Z": {
+    "alias": "TezLoom",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1NMNQYrYrfNpmUqQrMhJypf6ovnaDZhJHM": {
+    "alias": "SmartNode",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1aDiEJf9ztRrAJEXZfcG3CKimoKsGhwVAi": {
+    "alias": "KryptStar",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "tz1fK1ZmVMtshYoCoQ1zC1SCCUG4SnbyR75p": {
+    "alias": "Bitfinex Cold",
+    "hasLogo": true,
+    "accountType": "account"
+  },
+  "tz1bDXD6nNSrebqmAnnKKwnX1QdePSMCj4MX": {
+    "alias": "Kraken 1",
+    "hasLogo": true,
+    "logoReference": "tz1gfArv665EUkSg2ojMBzcbfwuPxAvqPvjo",
+    "accountType": "account"
+  },
+  "tz1NH4A2kRyFQUYhyi9aL8jrrySQUrCgNsX9": {
+    "alias": "Kraken 2",
+    "hasLogo": true,
+    "logoReference": "tz1gfArv665EUkSg2ojMBzcbfwuPxAvqPvjo",
+    "accountType": "account"
+  },
+  "tz1YpWsMwc4gSyjtxEF3JbmN6YrGiDidaSmg": {
+    "alias": "Kraken 3",
+    "hasLogo": true,
+    "logoReference": "tz1gfArv665EUkSg2ojMBzcbfwuPxAvqPvjo",
+    "accountType": "account"
+  },
+  "tz1cgJLxcS8ZTgq5dXPtojJJR7Bp8fKDyxPK": {
+    "alias": "Kraken 4",
+    "hasLogo": true,
+    "logoReference": "tz1gfArv665EUkSg2ojMBzcbfwuPxAvqPvjo",
+    "accountType": "account"
+  },
+  "tz1e9ZH87proooFwLidjvE8fhusWfeDf3bgk": {
+    "alias": "Kraken 5",
+    "hasLogo": true,
+    "logoReference": "tz1gfArv665EUkSg2ojMBzcbfwuPxAvqPvjo",
+    "accountType": "account"
+  },
+  "tz1MqUjLpkCXMXMqg5A7KNWYaL98Ysm8qnZ9": {
+    "alias": "Bithumb Deposit",
+    "hasLogo": true,
+    "isExchange": true,
+    "accountType": "account"
+  },
+  "tz1VLEq23Acf9Zp6xi3CxC4LNHuVjKf6LyZv": {
+    "alias": "Bithumb Withdrawal",
+    "hasLogo": true,
+    "isExchange": true,
+    "logoReference": "tz1MqUjLpkCXMXMqg5A7KNWYaL98Ysm8qnZ9",
+    "accountType": "account"
+  },
+  "tz1UCAzL3W76ivAhubgoFBEp549HpDbYsRAC": {
+    "alias": "Bithumb Cold",
+    "hasLogo": true,
+    "isExchange": true,
+    "logoReference": "tz1MqUjLpkCXMXMqg5A7KNWYaL98Ysm8qnZ9",
+    "accountType": "account"
+  },
+  "tz1MHDcPPMZsK9mPA8XwUSw5kNqoJG3pXJ2f": {
+    "alias": "Huobi",
+    "hasLogo": true,
+    "isExchange": true,
+    "accountType": "account"
+  },
+  "tz1Vc9XAD7iphycJoRwE1Nxx5krB9C7XyBu5": {
+    "alias": "ØCrypto Pool",
+    "hasLogo": true,
+    "acceptsDelegations": true
+  },
+  "KT1AdbYiPYb5hDuEuVrfxmFehtnBCXv4Np7r": {
+    "alias": "Harbinger Oracle: Coinbase Normalizer",
+    "accountType": "account"
+  },
+  "KT1Jr5t9UvGiqkvvsuUbPJHaYx24NzdUwNW9": {
+    "alias": "Harbinger Oracle: Coinbase Storage",
+    "accountType": "account"
+  },
+  "KT19kgnqC5VWoxktLRdRUERbyUPku9YioE8W": {
+    "alias": "Kaiko Price Oracle",
+    "hasLogo": true,
+    "accountType": "account"
+  },
+  "KT1JKNrzC57FtUe3dmYXmm12ucmjDmzbkKrc": {
+    "alias": "OroPocket XTZ/GOLD",
+    "hasLogo": true,
+    "accountType": "account"
+  },
+  "KT1Avd4SfQT7CezSiGYXFgHNKqSyWstYRz53": {
+    "alias": "OroPocket XTZ/SILVER",
+    "hasLogo": true,
+    "logoReference": "KT1JKNrzC57FtUe3dmYXmm12ucmjDmzbkKrc",
+    "accountType": "account"
+  },
+  "KT1V4Vp7zhynCNuaBjWMpNU535Xm2sgqkz6M": {
+    "alias": "wXTZ Core",
+    "hasLogo": true,
+    "accountType": "account"
+  },
+  "KT1VYsVfmobT7rsMVivvZ4J8i3bPiqz12NaH": {
+    "alias": "wXTZ",
+    "hasLogo": true,
+    "logoReference": "KT1V4Vp7zhynCNuaBjWMpNU535Xm2sgqkz6M",
+    "accountType": "account"
+  },
+  "KT1BvVxWM6cjFuJNet4R9m64VDCN2iMvjuGE": {
+    "alias": "The DAB",
+    "hasLogo": true,
+    "logoReference": "tz1LBEKXaxQbd5Gtzbc1ATCwc3pppu81aWGc",
+    "accountType": "account"
+  },
+  "KT1Ap287P1NzsnToSJdA4aqSNjPomRaHBZSr": {
+    "alias": "Atomex FA1.2",
+    "hasLogo": true,
+    "accountType": "account"
   }
 }
