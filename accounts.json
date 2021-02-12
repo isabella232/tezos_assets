@@ -1381,5 +1381,15 @@
     "alias": "Atomex FA1.2",
     "hasLogo": true,
     "accountType": "account"
+  },
+  "KT1FyaDqiMQWg7Exo7VUiXAgZbd2kCzo3d4s": {
+    "alias": "tzcolors NFT",
+    "hasLogo": true,
+    "accountType": "account"
+  },
+  "KT1CpeSQKdkhWi4pinYcseCFKmDhs5M74BkU": {
+    "alias": "tzcolors Auction House",
+    "hasLogo": true,
+    "accountType": "account"
   }
 }
