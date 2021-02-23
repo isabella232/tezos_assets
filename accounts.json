@@ -1076,7 +1076,7 @@
   },
   "KT1SovvF5KRQjBiVX8cHFmEoMc7H54ehxstV": {
     "alias": "Wetzikon",
-    "hasLogo": false,
+    "hasLogo": true,
     "accountType": "contract",
     "contractType": "fa2"
   },
