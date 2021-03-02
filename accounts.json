@@ -1148,14 +1148,37 @@
     "accountType": "contract"
   },
   "KT1DrJV8vhkdLEj76h1H9Q4irZDqAkMPo1Qf": {
-    "alias": "Dexter tzBTC/XTZ",
+    "alias": "Dexter tzBTC/XTZ Old",
     "hasLogo": true,
     "accountType": "account"
   },
+  "KT1BGQR7t4izzKZ7eRodKWTodAsM23P38v7N": {
+    "alias": "Dexter tzBTC/XTZ",
+    "hasLogo": true,
+    "logoReference": "KT1DrJV8vhkdLEj76h1H9Q4irZDqAkMPo1Qf",
+    "accountType": "account"
+  },
   "KT1Puc9St8wdNoGtLiD2WXaHbWU7styaxYhD": {
+    "alias": "Dexter USDtz/XTZ Old",
+    "hasLogo": true,
+    "logoReference": "KT1DrJV8vhkdLEj76h1H9Q4irZDqAkMPo1Qf",
+    "accountType": "account"
+  },
+  "KT1Tr2eG3eVmPRbymrbU2UppUmKjFPXomGG9": {
     "alias": "Dexter USDtz/XTZ",
     "hasLogo": true,
     "logoReference": "KT1DrJV8vhkdLEj76h1H9Q4irZDqAkMPo1Qf",
+    "accountType": "account"
+  },
+  "KT1PDrBE59Zmxnb8vXRgRAG1XmvTMTs5EDHU": {
+    "alias": "Dexter ETHtz/XTZ",
+    "hasLogo": true,
+    "logoReference": "KT1DrJV8vhkdLEj76h1H9Q4irZDqAkMPo1Qf",
+    "accountType": "account"
+  },
+  "KT1K9gCRgaLRFKTErYt1wVxA3Frb9FjasjTV": {
+    "alias": "kUSD",
+    "hasLogo": true,
     "accountType": "account"
   },
   "tz1abR1YHzPy8jb2VrZxW7YTLFR21MfUSBfu": {
