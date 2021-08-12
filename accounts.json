@@ -1414,5 +1414,15 @@
     "alias": "tzcolors Auction House",
     "hasLogo": true,
     "accountType": "account"
+  },
+  "KT1Xobej4mc6XgEjDoJoHtTKgbD1ELMvcQuL": {
+    "alias": "youves YOU Governance",
+    "hasLogo": true,
+    "accountType": "account"
+  },
+  "KT1XRPEPXbZK25r3Htzp2o1x7xdMMmfocKNW": {
+    "alias": "youves uUSD",
+    "hasLogo": true,
+    "accountType": "account"
   }
 }
