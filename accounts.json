@@ -138,7 +138,7 @@
   "tz1MXFrtZoaXckE41bjUCSjAjAap3AFDSr3N": {
     "alias": "Everstake Legacy",
     "hasLogo": true,
-    "acceptsDelegations": true
+    "acceptsDelegations": false
   },
   "tz1aRoaRhSpRYvFdyvgWLL6TGyRoGF51wDjM": {
     "alias": "Everstake",
@@ -1423,6 +1423,18 @@
   "KT1XRPEPXbZK25r3Htzp2o1x7xdMMmfocKNW": {
     "alias": "youves uUSD",
     "hasLogo": true,
+    "accountType": "account"
+  },
+  "tz1axcnVN9tZnCe4sQQhC6f3tfSEXdjPaXPY": {
+    "alias": "Devil's Delegate",
+    "hasLogo": true,
+    "hasPayoutAddress": "tz1imZ4ZKk9ukiU9GdLLvmsAhCVuznfTyjKD",
+    "acceptsDelegations": true
+  },
+  "tz1imZ4ZKk9ukiU9GdLLvmsAhCVuznfTyjKD": {
+    "alias": "Devil's Delegate Payout",
+    "hasLogo": true,
+    "logoReference": "tz1axcnVN9tZnCe4sQQhC6f3tfSEXdjPaXPY",
     "accountType": "account"
   }
 }
