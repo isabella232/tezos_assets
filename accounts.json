@@ -115,7 +115,7 @@
   "tz1MJx9vhaNRSimcuXPK2rW4fLccQnDAnVKJ": {
     "alias": "AirGap",
     "hasLogo": true,
-    "hasPayoutAddress": "tz1LJycSuCT25AA5VJwNW1QYXVGyy7YLwZh9",
+    "hasPayoutAddress": "tz1grfW18aeMQ5kajyVxM7rewzXhWGLsXUtY",
     "acceptsDelegations": true
   },
   "KT1Vp4KUG1n1HrFEDxUNvNskwc1Msh7NRbhd": {
@@ -125,7 +125,13 @@
     "accountType": "account"
   },
   "tz1LJycSuCT25AA5VJwNW1QYXVGyy7YLwZh9": {
-    "alias": "AirGap Payout",
+    "alias": "AirGap Payout Old",
+    "hasLogo": true,
+    "logoReference": "tz1MJx9vhaNRSimcuXPK2rW4fLccQnDAnVKJ",
+    "accountType": "account"
+  },
+  "tz1grfW18aeMQ5kajyVxM7rewzXhWGLsXUtY": {
+    "alias": "AirGap Payout Old",
     "hasLogo": true,
     "logoReference": "tz1MJx9vhaNRSimcuXPK2rW4fLccQnDAnVKJ",
     "accountType": "account"
