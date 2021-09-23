@@ -131,7 +131,7 @@
     "accountType": "account"
   },
   "tz1grfW18aeMQ5kajyVxM7rewzXhWGLsXUtY": {
-    "alias": "AirGap Payout Old",
+    "alias": "AirGap Payout",
     "hasLogo": true,
     "logoReference": "tz1MJx9vhaNRSimcuXPK2rW4fLccQnDAnVKJ",
     "accountType": "account"
